@@ -1,4 +1,4 @@
-# /**
+# SocialNetwork
  * Get a list of users
  -> first user is your own account, remove from entire list
  -> generate own account data
